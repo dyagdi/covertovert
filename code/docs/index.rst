@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group No:  35
+
+Group Members:   
+Damlanur Yağdı,
+Halil Hilmi Çakanel
 
 
 .. toctree::
