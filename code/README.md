@@ -1,7 +1,3 @@
-Group No:  35
+# Replace with Your Covert Channel Name
 
-Group Members:   
-Damlanur Yağdı 2522118,
-Halil Hilmi Çakanel 2521367
-
-https://github.com/dyagdi/covertovert
+Explain your study in detail as you share your work with the community in a public repository. Anyone should understand your project when read it without having a previous information about the homework.
