@@ -5,8 +5,16 @@
 
 Covert Channel documentation
 ============================
+Group 35:
 
-Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
+
+Halil Hilmi Çakanel 2521367
+
+
+Damlanur Yağdı 2522118
+
+
+https://github.com/dyagdi/covertovert
 
 
 .. toctree::
