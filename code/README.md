@@ -37,7 +37,7 @@ The project consists of two main functions, send and receive, facilitating the t
     * Calculates acknowledgment number increments for each bit chunk
     * Constructs TCP packets with updated acknowledgment numbers
     * Sends packets using super().send function
-    * Implements 0.04 second delay between packets
+    * Implements 0.06 second delay between packets
 
 ## Receiving Data (receive)
 * **Parameter Configuration:**
