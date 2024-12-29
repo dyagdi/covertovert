@@ -78,3 +78,11 @@ The project consists of two main functions, send and receive, facilitating the t
   }
 }
 ```
+# Capacity 
+```
+Covert Channel Capacity: 24.53 bits/second
+Message length: 128 bits
+Transmission time: 5.44 seconds
+
+```
+
